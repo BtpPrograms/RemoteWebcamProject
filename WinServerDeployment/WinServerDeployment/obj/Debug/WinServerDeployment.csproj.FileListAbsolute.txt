@@ -1,0 +1,10 @@
+D:\Programming\Chair Camera Project\WinServerDeployment\WinServerDeployment\bin\Debug\WinServerDeployment.exe.config
+D:\Programming\Chair Camera Project\WinServerDeployment\WinServerDeployment\bin\Debug\WinServerDeployment.exe
+D:\Programming\Chair Camera Project\WinServerDeployment\WinServerDeployment\bin\Debug\WinServerDeployment.pdb
+D:\Programming\Chair Camera Project\WinServerDeployment\WinServerDeployment\obj\Debug\WinServerDeployment.csprojResolveAssemblyReference.cache
+D:\Programming\Chair Camera Project\WinServerDeployment\WinServerDeployment\obj\Debug\WinServerDeployment.exe
+D:\Programming\Chair Camera Project\WinServerDeployment\WinServerDeployment\obj\Debug\WinServerDeployment.pdb
+D:\Programming\Chair Camera Project\WinServerDeployment\WinServerDeployment\bin\Debug\WinServerDeployment.exe.manifest
+D:\Programming\Chair Camera Project\WinServerDeployment\WinServerDeployment\bin\Debug\WinServerDeployment.application
+D:\Programming\Chair Camera Project\WinServerDeployment\WinServerDeployment\obj\Debug\WinServerDeployment.exe.manifest
+D:\Programming\Chair Camera Project\WinServerDeployment\WinServerDeployment\obj\Debug\WinServerDeployment.application

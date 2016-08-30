@@ -1,0 +1,10 @@
+D:\Programming\Chair Camera Project\ChairReceiver\ChairReceiver\bin\Debug\ChairReceiver.exe.config
+D:\Programming\Chair Camera Project\ChairReceiver\ChairReceiver\bin\Debug\ChairReceiver.exe
+D:\Programming\Chair Camera Project\ChairReceiver\ChairReceiver\bin\Debug\ChairReceiver.pdb
+D:\Programming\Chair Camera Project\ChairReceiver\ChairReceiver\obj\Debug\ChairReceiver.csprojResolveAssemblyReference.cache
+D:\Programming\Chair Camera Project\ChairReceiver\ChairReceiver\obj\Debug\ChairReceiver.exe
+D:\Programming\Chair Camera Project\ChairReceiver\ChairReceiver\obj\Debug\ChairReceiver.pdb
+D:\Programming\Chair Camera Project\ChairReceiver\ChairReceiver\bin\Debug\ChairReceiver.exe.manifest
+D:\Programming\Chair Camera Project\ChairReceiver\ChairReceiver\bin\Debug\ChairReceiver.application
+D:\Programming\Chair Camera Project\ChairReceiver\ChairReceiver\obj\Debug\ChairReceiver.exe.manifest
+D:\Programming\Chair Camera Project\ChairReceiver\ChairReceiver\obj\Debug\ChairReceiver.application

@@ -1,0 +1,6 @@
+D:\Programming\Chair Camera Project\PTZControlLib\PTZControlLib\bin\Debug\PTZControlLib.dll
+D:\Programming\Chair Camera Project\PTZControlLib\PTZControlLib\bin\Debug\PTZControlLib.pdb
+D:\Programming\Chair Camera Project\PTZControlLib\PTZControlLib\bin\Debug\DirectShowLib-2005.dll
+D:\Programming\Chair Camera Project\PTZControlLib\PTZControlLib\obj\Debug\PTZControlLib.dll
+D:\Programming\Chair Camera Project\PTZControlLib\PTZControlLib\obj\Debug\PTZControlLib.pdb
+D:\Programming\Chair Camera Project\PTZControlLib\PTZControlLib\obj\Debug\PTZControlLib.csprojResolveAssemblyReference.cache

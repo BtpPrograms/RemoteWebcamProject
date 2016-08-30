@@ -1,0 +1,9 @@
+D:\Programming\Chair Camera Project\LocalController\LocalController\bin\Debug\LocalController.exe.config
+D:\Programming\Chair Camera Project\LocalController\LocalController\obj\Debug\LocalController.csprojResolveAssemblyReference.cache
+D:\Programming\Chair Camera Project\LocalController\LocalController\bin\Debug\LocalController.exe
+D:\Programming\Chair Camera Project\LocalController\LocalController\bin\Debug\LocalController.pdb
+D:\Programming\Chair Camera Project\LocalController\LocalController\bin\Debug\PTZControlLib.dll
+D:\Programming\Chair Camera Project\LocalController\LocalController\bin\Debug\DirectShowLib-2005.dll
+D:\Programming\Chair Camera Project\LocalController\LocalController\bin\Debug\PTZControlLib.pdb
+D:\Programming\Chair Camera Project\LocalController\LocalController\obj\Debug\LocalController.exe
+D:\Programming\Chair Camera Project\LocalController\LocalController\obj\Debug\LocalController.pdb

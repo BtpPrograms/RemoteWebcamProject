@@ -1,0 +1,9 @@
+D:\Programming\Chair Camera Project\GUIClient\GUIClient\bin\Debug\GUIClient.exe.config
+D:\Programming\Chair Camera Project\GUIClient\GUIClient\bin\Debug\GUIClient.exe
+D:\Programming\Chair Camera Project\GUIClient\GUIClient\bin\Debug\GUIClient.pdb
+D:\Programming\Chair Camera Project\GUIClient\GUIClient\obj\Debug\GUIClient.csprojResolveAssemblyReference.cache
+D:\Programming\Chair Camera Project\GUIClient\GUIClient\obj\Debug\GUIClient.Properties.Resources.resources
+D:\Programming\Chair Camera Project\GUIClient\GUIClient\obj\Debug\GUIClient.csproj.GenerateResource.Cache
+D:\Programming\Chair Camera Project\GUIClient\GUIClient\obj\Debug\GUIClient.exe
+D:\Programming\Chair Camera Project\GUIClient\GUIClient\obj\Debug\GUIClient.pdb
+D:\Programming\Chair Camera Project\GUIClient\GUIClient\obj\Debug\GUIClient.GUIClient.resources

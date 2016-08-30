@@ -1,0 +1,16 @@
+﻿Build started 5/20/2014 11:11:49 PM.
+     1>Project "D:\Programming\Chair Camera Project\CameraTest\CameraTest\CameraTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Programs\Visual Studio Express\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CameraTest.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CameraTest.cpp
+         CameraTest.cpp
+     1>d:\programming\chair camera project\cameratest\cameratest\cameratest.cpp(17): warning C4101: 'flags' : unreferenced local variable
+     1>d:\programming\chair camera project\cameratest\cameratest\cameratest.cpp(16): warning C4101: 'pan_val' : unreferenced local variable
+       Link:
+         D:\Programs\Visual Studio Express\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programming\Chair Camera Project\CameraTest\Debug\CameraTest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Quartz.lib Strmiids.lib Strmbase.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Programming\Chair Camera Project\CameraTest\Debug\CameraTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programming\Chair Camera Project\CameraTest\Debug\CameraTest.lib" /MACHINE:X86 Debug\CameraTest.obj
+         Debug\stdafx.obj
+         CameraTest.vcxproj -> D:\Programming\Chair Camera Project\CameraTest\Debug\CameraTest.exe
+     1>Done Building Project "D:\Programming\Chair Camera Project\CameraTest\CameraTest\CameraTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.25

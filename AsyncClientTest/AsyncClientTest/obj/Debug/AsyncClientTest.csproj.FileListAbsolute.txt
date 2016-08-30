@@ -1,0 +1,9 @@
+D:\Programming\Chair Camera Project\AsyncClientTest\AsyncClientTest\bin\Debug\AsyncClientTest.exe.config
+D:\Programming\Chair Camera Project\AsyncClientTest\AsyncClientTest\bin\Debug\AsyncClientTest.exe.manifest
+D:\Programming\Chair Camera Project\AsyncClientTest\AsyncClientTest\bin\Debug\AsyncClientTest.application
+D:\Programming\Chair Camera Project\AsyncClientTest\AsyncClientTest\bin\Debug\AsyncClientTest.exe
+D:\Programming\Chair Camera Project\AsyncClientTest\AsyncClientTest\bin\Debug\AsyncClientTest.pdb
+D:\Programming\Chair Camera Project\AsyncClientTest\AsyncClientTest\obj\Debug\AsyncClientTest.exe.manifest
+D:\Programming\Chair Camera Project\AsyncClientTest\AsyncClientTest\obj\Debug\AsyncClientTest.application
+D:\Programming\Chair Camera Project\AsyncClientTest\AsyncClientTest\obj\Debug\AsyncClientTest.exe
+D:\Programming\Chair Camera Project\AsyncClientTest\AsyncClientTest\obj\Debug\AsyncClientTest.pdb

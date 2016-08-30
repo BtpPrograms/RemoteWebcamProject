@@ -1,0 +1,10 @@
+D:\Programming\Chair Camera Project\AsyncServerTest\AsyncServerTest\bin\Debug\AsyncServerTest.exe.config
+D:\Programming\Chair Camera Project\AsyncServerTest\AsyncServerTest\bin\Debug\AsyncServerTest.exe
+D:\Programming\Chair Camera Project\AsyncServerTest\AsyncServerTest\bin\Debug\AsyncServerTest.pdb
+D:\Programming\Chair Camera Project\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.exe
+D:\Programming\Chair Camera Project\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.pdb
+D:\Programming\Chair Camera Project\AsyncServerTest\AsyncServerTest\bin\Debug\AsyncServerTest.exe.manifest
+D:\Programming\Chair Camera Project\AsyncServerTest\AsyncServerTest\bin\Debug\AsyncServerTest.application
+D:\Programming\Chair Camera Project\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.csprojResolveAssemblyReference.cache
+D:\Programming\Chair Camera Project\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.exe.manifest
+D:\Programming\Chair Camera Project\AsyncServerTest\AsyncServerTest\obj\Debug\AsyncServerTest.application

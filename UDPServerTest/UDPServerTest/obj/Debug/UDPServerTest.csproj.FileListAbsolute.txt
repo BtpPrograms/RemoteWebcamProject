@@ -1,0 +1,13 @@
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\bin\Debug\UDPServerTest.exe.config
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\bin\Debug\UDPServerTest.exe.manifest
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\bin\Debug\UDPServerTest.application
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\bin\Debug\UDPServerTest.exe
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\bin\Debug\UDPServerTest.pdb
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\obj\Debug\UDPServerTest.exe.manifest
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\obj\Debug\UDPServerTest.application
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\obj\Debug\UDPServerTest.exe
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\obj\Debug\UDPServerTest.pdb
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\obj\Debug\UDPServerTest.csprojResolveAssemblyReference.cache
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\bin\Debug\PTZControlLib.dll
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\bin\Debug\DirectShowLib-2005.dll
+D:\Programming\Chair Camera Project\UDPServerTest\UDPServerTest\bin\Debug\PTZControlLib.pdb

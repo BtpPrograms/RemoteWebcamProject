@@ -1,0 +1,6 @@
+D:\Programming\Chair Camera Project\FindWindowTest\FindWindowTest\bin\Debug\FindWindowTest.exe.config
+D:\Programming\Chair Camera Project\FindWindowTest\FindWindowTest\bin\Debug\FindWindowTest.exe
+D:\Programming\Chair Camera Project\FindWindowTest\FindWindowTest\bin\Debug\FindWindowTest.pdb
+D:\Programming\Chair Camera Project\FindWindowTest\FindWindowTest\obj\Debug\FindWindowTest.exe
+D:\Programming\Chair Camera Project\FindWindowTest\FindWindowTest\obj\Debug\FindWindowTest.pdb
+D:\Programming\Chair Camera Project\FindWindowTest\FindWindowTest\obj\Debug\FindWindowTest.csprojResolveAssemblyReference.cache

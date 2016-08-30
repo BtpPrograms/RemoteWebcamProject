@@ -1,0 +1,10 @@
+D:\Programming\Chair Camera Project\InputConsole\InputConsole\bin\Debug\InputConsole.exe.config
+D:\Programming\Chair Camera Project\InputConsole\InputConsole\bin\Debug\InputConsole.exe
+D:\Programming\Chair Camera Project\InputConsole\InputConsole\bin\Debug\InputConsole.pdb
+D:\Programming\Chair Camera Project\InputConsole\InputConsole\obj\Debug\InputConsole.csprojResolveAssemblyReference.cache
+D:\Programming\Chair Camera Project\InputConsole\InputConsole\obj\Debug\InputConsole.exe
+D:\Programming\Chair Camera Project\InputConsole\InputConsole\obj\Debug\InputConsole.pdb
+D:\Programming\Chair Camera Project\InputConsole\InputConsole\bin\Debug\InputConsole.exe.manifest
+D:\Programming\Chair Camera Project\InputConsole\InputConsole\bin\Debug\InputConsole.application
+D:\Programming\Chair Camera Project\InputConsole\InputConsole\obj\Debug\InputConsole.exe.manifest
+D:\Programming\Chair Camera Project\InputConsole\InputConsole\obj\Debug\InputConsole.application

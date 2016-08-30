@@ -1,0 +1,15 @@
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\bin\Debug\GUIClientWPF.exe.config
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\bin\Debug\GUIClientWPF.exe
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\bin\Debug\GUIClientWPF.pdb
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\MainWindow.baml
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\MainWindow.g.cs
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\App.g.cs
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\GUIClientWPF_MarkupCompile.cache
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\GUIClientWPF.g.resources
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\GUIClientWPF.Properties.Resources.resources
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\GUIClientWPF.csproj.GenerateResource.Cache
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\GUIClientWPF.exe
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\GUIClientWPF.pdb
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\ResourceDictionary.baml
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\App.baml
+D:\Programming\Chair Camera Project\GUIClientWPF\GUIClientWPF\obj\Debug\GUIClientWPF.csprojResolveAssemblyReference.cache
