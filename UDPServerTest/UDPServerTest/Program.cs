@@ -12,7 +12,7 @@ public class UDPListener
     {
         bool done = false;
 
-        //var p = PTZDevice.GetDevice("BCC950 ConferenceCam", PTZType.Relative);
+        var p = PTZDevice.GetDevice("BCC950 ConferenceCam", PTZType.Relative);
         UdpClient listener = new UdpClient(listenPort);
         IPEndPoint groupEP = new IPEndPoint(IPAddress.Any, listenPort);
 
@@ -29,27 +29,27 @@ public class UDPListener
                 switch (Encoding.ASCII.GetString(bytes, 0, bytes.Length))
                 {
                     case "up":
-                        //p.Move(0, 1);
+                        p.Move(0, 1);
                         Console.WriteLine("up");
                         break;
                     case "down":
-                        //p.Move(0, -1);
+                        p.Move(0, -1);
                         Console.WriteLine("down");
                         break;
                     case "left":
-                        //p.Move(-1, 0);
+                        p.Move(-1, 0);
                         Console.WriteLine("left");
                         break;
                     case "right":
-                        //p.Move(1, 0);
+                        p.Move(1, 0);
                         Console.WriteLine("right");
                         break;
                     case "zoomin":
-                        //p.Zoom(1);
+                        p.Zoom(1);
                         Console.WriteLine("zoomin");
                         break;
                     case "zoomout":
-                        //p.Zoom(-1);
+                        p.Zoom(-1);
                         Console.WriteLine("zoomout");
                         break;
                 }
